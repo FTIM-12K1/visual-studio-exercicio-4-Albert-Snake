@@ -5,3 +5,4 @@ visual-studio-exercicio-4-Albert-Snake created by GitHub Classroom
 Upload dos ficheiros para o VS.
 Adicinado Colaboradores (Gonçalo Ferreira)
 Adicinado Colaboradores (Malha)
+Adicinadas alterações feitas por colaborador (Malha)
